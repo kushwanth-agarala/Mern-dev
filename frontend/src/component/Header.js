@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../assest/logo.jpg";
+import logo from "../assest/logo.png";
 import { Link } from "react-router-dom";
 import { HiOutlineUserCircle } from "react-icons/hi";
 import { BsCartFill } from "react-icons/bs";
